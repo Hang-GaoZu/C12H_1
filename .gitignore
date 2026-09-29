@@ -1,0 +1,4 @@
+# PlatformIO
+.pio/
+.vscode/
+*.swp
